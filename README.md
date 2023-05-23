@@ -11,8 +11,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### 🔗 Links
 
-- Solution URL: [Click Here!](C:\Users\marce\Desktop\qr-code-screen-html\index.html)
-- Live Site URL: [Click Here!]([https://your-live-site-url.com](https://kevengoncabral.github.io/qr-code-screen-html/))
+- Solution URL: [](C:\Users\marce\Desktop\qr-code-screen-html\index.html)
+- Live Site URL: [](https://your-live-site-url.com](https://kevengoncabral.github.io/qr-code-screen-html/)
 
 
 
