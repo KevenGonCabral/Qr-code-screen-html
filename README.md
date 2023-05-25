@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Screamshot png](https://github.com/KevenGonCabral/qr-code-screen-html/assets/116415920/6617dddd-8088-4d6d-9957-1ba44c8cb5f8)
 
 ### 🔗 Links
-- Live Site URL: [](https://kevengoncabral.github.io/Qr-code-screen-html/)
+- Live Site URL: [CLICKHERE!](https://kevengoncabral.github.io/Qr-code-screen-html/)
 
 
 
