@@ -3,29 +3,35 @@
     padding: 0;
     margin: 0;
     border: 0;
+    
+}
+
+body{
     background-color: hsl(212, 45%, 89%);
 }
 
 #qr-container{
-    width: 240px;   
+    width: 288px;   
+    height: 465px;
     background-color: white;
     margin: auto;
-    margin-top: 6rem;
-    margin-bottom: 5rem;
+    margin-top: 152px;
+    margin-bottom: 130px;
     padding: 1rem;
-    border: 2px solid white;
+    border: 0px solid white;
     border-radius: 12px;
     flex-direction: column;
 }
 #img-qr{
     background-color: white;
-    margin-bottom: 1rem;
+    
 }
 
 #img-qr img{
     border: 0px;
     border-radius: 8px;
-    width: 240px;
+    width: 288px;
+    height: 288px;
     
     
 }
@@ -34,10 +40,12 @@
     color: hsl(218, 44%, 22%);
     background-color: white;
     font-weight:400, 700 ;
-    font-size: 1.1rem;
-    margin-bottom: 1rem;
-    margin-left: 10px;
+    font-size: 1.3rem;
+    margin-left:  10px;
     margin-right: 10px;
+    
+    margin-top: 30px;
+    margin-bottom: 20px;
     text-align: center;
     
     
@@ -45,8 +53,8 @@
 #text2 {
     color:hsl(220, 15%, 55%) ;
     background-color: white;
-    font-size: 0.8rem;
-    margin-bottom: 1.2rem;
+    font-size: 15px;
+    margin-bottom: 27px;
     margin-left: 10px;
     margin-right: 10px;
     text-align: center;
@@ -63,12 +71,11 @@
 }
 
 
-
-
-@media (max-width= 450px){
+@media (max-width: 400px){
     #qr-container{
-         margin-top: 3rem;
-         margin-bottom: 3rem;
+        margin-top: 85px;
+        margin-bottom: 65px;
+        height: 465px;
     }
 
 }
