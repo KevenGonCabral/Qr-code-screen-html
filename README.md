@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- GIMP
+- [GIMP](https://www.gimp.org/) - Gimp
 - [HTML](https://www.w3.org/html/) - HTMl MarkLanguage
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - CSS MarkLanguage
 
